@@ -21,4 +21,4 @@ Welcome to the Password Generator App repository! This application allows users 
 
 ## Demo
 
-[View Demo](#) <!-- Add a link to your live demo if available -->
+[View Demo](https://react-password-generator-amber.vercel.app/)
